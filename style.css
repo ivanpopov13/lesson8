@@ -1,0 +1,144 @@
+body {
+    background-color: #e5e5e5;
+}
+
+header {
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px ;
+    padding-bottom: 10px ;
+    text-align:  center;
+    border-radius: 10px;
+}
+
+.name {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #80CB87;
+    display: inline;
+}
+
+.nav1 {
+    display: inline;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    margin-right: 3%;
+}
+
+.active {
+    font-weight: bold;
+    color: #80CB87;
+}
+
+button {
+    border-radius: 27px;
+    background-color: #80CB87;
+    color: white;
+    border: none;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+
+    line-height: 25px;
+    width: 15%;
+}
+
+main {
+    width: 70%;
+    margin: auto;
+
+}
+
+.main {
+    background-color: white;
+    border-radius: 10px;
+    display: inline-block;
+    width: 70%;
+    height: 670px;
+    overflow-y: scroll;
+}
+.other {
+    display: inline-block;
+    width: 25%;
+    height: 590px;
+}
+
+.books {
+    background-color: white;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    height: 590px;
+    overflow-y: scroll;
+}
+
+.bookRead {
+    background-color: #80CB87;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 10px;
+}
+.read {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    color: #24674B;
+}
+img {
+    width: 80%;
+    margin: auto;
+    display: block;
+}
+
+footer {
+    background-color: white;
+}
+.book{
+    color:#80CB87 ;
+    border-bottom:#80CB87 solid 4px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000000;
+    margin-left: 10%;
+    width: 80%;
+}
+
+h2 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+    text-transform: uppercase;
+    }
